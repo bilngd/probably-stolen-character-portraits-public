@@ -14,6 +14,10 @@
 
 `scripts/extract_portraits.py` 只在你自己的机器上读取你合法拥有的游戏副本。使用本仓库前请确认你拥有游戏，并遵守游戏的 EULA。
 
+## 许可范围
+
+除 `assets/` 下的示例图外，本仓库的代码与文档均采用 **MIT License**（见 `LICENSE`）。示例图不在 MIT 范围内，权利说明见下一节。
+
 ## 示例美术
 
 `assets/example_deepseek_4x.png` 与 `assets/example_deepseek_1x.png` 是流程演示用的示例立绘，由本技能作者提供。
