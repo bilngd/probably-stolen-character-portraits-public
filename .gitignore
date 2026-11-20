@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# 本地工作产物
+out/
+ref/
+*.log
+*_preview6x.png
